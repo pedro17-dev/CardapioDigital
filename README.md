@@ -19,6 +19,6 @@ O projeto foi desenvolvido como aprendizado da linguagem C, utilizando arrays, c
 1. Menu principal com opções de visualizar cardápio ou informações do restaurante.
 2. Seleção de categorias e itens com validação de entradas.
 3. Cálculo de subtotal, desconto e total a pagar.
-4. Limpeza de tela compatível com Windows e Linux.
+4. Limpeza de tela compatível com Windows e MacOs.
 5. Limpeza de buffer de entrada para evitar erros em entradas inválidas.
 
